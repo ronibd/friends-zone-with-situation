@@ -1,6 +1,6 @@
- #Friends zone with their situation
+# Friends zone with their situation
 
- #link: https://abunomanroni-assingment-8.netlify.app/
+ # link: https://abunomanroni-assingment-8.netlify.app/
 
 *This website is created for Friends Zone
 
